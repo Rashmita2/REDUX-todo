@@ -1,4 +1,4 @@
-#REDUX TO-DO
+# REDUX TO-DO
 Create a folder in any editor like Visual Studio Code.
 Open the terminal
                   npm install redux
